@@ -2,6 +2,9 @@
 
 TaskMaster is a simple and efficient daily task organizer designed to help you manage your to-do lists, prioritize tasks, and set reminders. It’s the perfect tool for staying on top of your daily responsibilities.
 
+![TaskMaster Interface](sandbox:/mnt/data/A_clean,_modern_interface_of_a_task_management_too.png)
+
+
 ---
 
 ## Key Features

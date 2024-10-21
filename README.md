@@ -30,7 +30,7 @@ Follow these steps to install TaskMaster:
 1. Open the terminal and run the following command to install TaskMaster:
    ```bash
    sudo apt-get install taskmaster
-
+2. After installation, run TaskMaster from the Applications menu or using the terminal.
 
 ## User Guide
 
